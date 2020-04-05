@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# PureScript - Spago
+
+/generated-docs
+/output
+/.spago
+/.purs*
+/.psc*
